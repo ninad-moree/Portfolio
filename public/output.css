@@ -736,6 +736,10 @@ video {
   height: 350px;
 }
 
+.h-64{
+  height: 16rem;
+}
+
 .max-h-\[400px\]{
   max-height: 400px;
 }
@@ -985,6 +989,10 @@ video {
 
 .pt-32{
   padding-top: 8rem;
+}
+
+.pt-5{
+  padding-top: 1.25rem;
 }
 
 .text-center{
