@@ -39,7 +39,7 @@ const Contact = () => {
                         {errors.name && (
                             <p className="text-red mt-1">
                                 {errors.name.type === 'required' && 'This field is required.'}
-                                {errors.name.type === 'maxLength' && 'Max length is 100 chars.'}
+                                {errors.name.type === 'maxLength' && 'Max length is 100 chars.'} 
                             </p>
                         )}
 
